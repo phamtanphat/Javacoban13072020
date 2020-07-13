@@ -36,6 +36,10 @@ class Ideone
 		// a = ++a;
 		// System.out.print(a);
 		
+		int a = 5;
+		int b = 6;
+		int ketqua = a++ - --b + b++ + a-- - ++a + --b - a++ - --b + ++a - --b;
+		
 		
 	}
 }
