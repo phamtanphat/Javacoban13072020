@@ -11,7 +11,7 @@ class Ideone
 	{
 		// your code goes here
 		
-		// 1 : Khai bao bi?n v� ki?u d? li?u
+		// 1 : Khai bao biến và kiểu dữ liệu
 		
 	}
 }
