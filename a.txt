@@ -12,6 +12,18 @@ class Ideone
 		// your code goes here
 		
 		// 1 : Khai bao biến và kiểu dữ liệu
+		// Kieudulieu  : 
+		// String , Boolean , Float , Double , Integer , Character : Kiểu đối tượng
+		//        , boolean , float , double , int , char : Nguyên thủy
+		
+		// "Xin chao , toi ten la" : String (Chứa trong "")
+		// true : boolean (Kiểu luận lý)
+		// 1.2 : float (Kiểu số thực)< double
+		// 1 : int (Kiểu số nguyên)
+		// 'a' : char (Kiểu ký tự)
+		
+		String name = "Pham tan phat";
+		
 		
 	}
 }
