@@ -24,12 +24,18 @@ class Ideone
 		
 		String name = "Pham tan phat";
 		
-		// 2 : Toán tử
+			// 2 : Toán tử
 		// + - * % /
-		int a = 6;
-		int b = 4;
-		int ketqua = a % b;
-		System.out.print(ketqua);
+		// int a = 6;
+		// a = a + 1; == a += 1;
+		// a++;
+		// ++a;
+		// ++ -- (Ưu tiên trước)
+		// * / (Ưu tiên sau)
+		// - + (Ưu tiên cuối cùng)
+		// a = ++a;
+		// System.out.print(a);
+		
 		
 	}
 }
