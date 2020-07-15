@@ -58,15 +58,18 @@ class Ideone
 		// 3 : Câu điều kiện
 		// () => chứa giá trị
 		// {} => chưa đoạn lệnh (scope)
-		int a = 5;
-		int b = 6;
-		if (a > b){
-			System.out.print("A lon hon B");
-		}else if (a == b){
-			System.out.print("A bang B");
-		}else{
-			System.out.print("A be hon B");
-		}
+		// int a = 5;
+		// int b = 6;
+	
+		// if (a > b){
+		// 	System.out.print("A lon hon B");
+		// }else if (a == b){
+		// 	System.out.print("A bang B");
+		// 	return;
+		// }else{
+		// 	System.out.print("A be hon B");
+		// 	return;
+		// }
 		// 4 : Toán tử 3 ngôi
 		// Nếu a > b = 1
 		// Nếu a == b = 0
