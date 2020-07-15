@@ -67,6 +67,14 @@ class Ideone
 		}else{
 			System.out.print("A be hon B");
 		}
+		// 4 : Toán tử 3 ngôi
+		// Nếu a > b = 1
+		// Nếu a == b = 0
+		// Nếu a < b = -1
+		int a = 4;
+		int b = 5;
 		
+		int value = a > b ? 1 : (a < b ? -1 : 0);
+		System.out.print(value);
 	}
 }
