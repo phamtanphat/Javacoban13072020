@@ -107,7 +107,7 @@ class Ideone
 		// arrayNums[1] = 11;
 		// System.out.print(arrayNums[1]);
 		
-		// 7 : Vòng lặp for
+			// 7 : Vòng lặp for
 		// for(int i = arrayNums.length - 1 ; i >= 0 ; i--){
 		// 	System.out.println(arrayNums[i]);
 		// }
@@ -115,5 +115,12 @@ class Ideone
 		// Th1 : i là số chẳn
 		// Th2 : i là số lẻ
 		// Th3 : i là số chia 3 dư 1
+		
+		// Th1 :
+		// for(int i = 2 ; i <= 100 ; i+= 2) System.out.println(i);
+		//Th2 : 
+		// for(int i = 1 ; i <= 100 ; i+= 2) System.out.println(i);
+		//Th3 : 
+		// for(int i = 1 ; i <= 100 ; i+= 3) System.out.println(i);
 	}
 }
