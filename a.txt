@@ -122,5 +122,13 @@ class Ideone
 		// for(int i = 1 ; i <= 100 ; i+= 2) System.out.println(i);
 		//Th3 : 
 		// for(int i = 1 ; i <= 100 ; i+= 3) System.out.println(i);
+		
+		for(int i = 0 ; i <= 10 ; i++){
+			if (i == 5){
+				continue;
+			}else{
+				System.out.println("Vị trí thứ " + i);	
+			}
+		}
 	}
 }
