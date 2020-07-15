@@ -78,7 +78,7 @@ class Ideone
 		System.out.print(value);
 		
 		// 5 : Câu điều kiện
-		int thang = 5;
+		int thang = 7;
 		switch(thang){
 			case 1 : 
 				System.out.print("Quý 1");
@@ -95,6 +95,9 @@ class Ideone
 				break;
 			case 6 : System.out.print("Quý 2");
 				break;
+			default : System.out.print("Không thuộc trong quý");
+				break;
 		}
+		System.out.print("Tiếp tục chạy");
 	}
 }
