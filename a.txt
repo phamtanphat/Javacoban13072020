@@ -130,5 +130,12 @@ class Ideone
 				System.out.println("Vị trí thứ " + i);	
 			}
 		}
+		// int i = 0;
+		// while(i <= 10){
+		// 	System.out.println(i++);
+		// }
+		// do{
+		// 	System.out.print("Thực thi");
+		// }while(i == 1);
 	}
 }
