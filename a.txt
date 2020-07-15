@@ -102,5 +102,18 @@ class Ideone
 				break;
 		}
 		System.out.print("Tiếp tục chạy");
+		// 6 : Mảng 	   0,1,2,3,4,5,6,7,8,9
+		int[] arrayNums = {1,2,3,4,5,6,7,8,9,10};
+		// arrayNums[1] = 11;
+		// System.out.print(arrayNums[1]);
+		
+		// 7 : Vòng lặp for
+		// for(int i = arrayNums.length - 1 ; i >= 0 ; i--){
+		// 	System.out.println(arrayNums[i]);
+		// }
+		// 0 -> 100
+		// Th1 : i là số chẳn
+		// Th2 : i là số lẻ
+		// Th3 : i là số chia 3 dư 1
 	}
 }
