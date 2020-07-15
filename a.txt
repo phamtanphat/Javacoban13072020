@@ -55,6 +55,18 @@ class Ideone
 		
 		System.out.print(ketqua);
 		
+		// 3 : Câu điều kiện
+		// () => chứa giá trị
+		// {} => chưa đoạn lệnh (scope)
+		int a = 5;
+		int b = 6;
+		if (a > b){
+			System.out.print("A lon hon B");
+		}else if (a == b){
+			System.out.print("A bang B");
+		}else{
+			System.out.print("A be hon B");
+		}
 		
 	}
 }
