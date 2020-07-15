@@ -76,5 +76,25 @@ class Ideone
 		
 		int value = a > b ? 1 : (a < b ? -1 : 0);
 		System.out.print(value);
+		
+		// 5 : Câu điều kiện
+		int thang = 5;
+		switch(thang){
+			case 1 : 
+				System.out.print("Quý 1");
+				break;
+			case 2 : System.out.print("Quý 1");
+				break;
+			case 3 : System.out.print("Quý 1");
+				break;
+			case 4 : System.out.print("Quý 1");
+				break;
+			case 5 :
+				System.out.print("Quý 2");
+				System.out.print("Quý 2");
+				break;
+			case 6 : System.out.print("Quý 2");
+				break;
+		}
 	}
 }
